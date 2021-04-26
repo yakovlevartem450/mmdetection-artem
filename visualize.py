@@ -63,7 +63,7 @@ class visualize_mmdetection():
         plt.subplot(326, title='accuracy', ylabel='accuracy')
         plt.plot(self.acc)
         plt.suptitle((sys.argv[1][5:] + "\n training result"), fontsize=30)
-        plt.savefig(('/content/mmdetection/work_dirs/'+'_result.png'))
+        plt.savefig(('/content/mmdetection-artem/work_dirs/'+'_result.png'))
 
 
 if __name__ == '__main__':
