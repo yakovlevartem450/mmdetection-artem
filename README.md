@@ -1,8 +1,5 @@
 # MMDetection: Cats and Dogs Breed Object Detection
 
-## Disclaimer
-I'm not a CS student, and all of my background is in Econ and Operations Management. Please don't judge harshly if something is not at the level of complexity you expected, it's my first experience with Deep Learning.
-
 ## Input/Output
 **Input**: Cat/Dog image
 
