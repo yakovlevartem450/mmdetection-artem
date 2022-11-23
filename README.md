@@ -54,7 +54,7 @@ Please don't judge harshly if something is not at the level of complexity you ex
 All the instructions can be found in the Google Colab Notebook. Please don't hesitate to contact me if you have any questions.
 
 ## Performance (Example from Faster-RCNN with 25 training epochs) 
-![Exhibit 1. Precision-Recall Table](precision-recall_faster_rcnn.JPG)
+![Exhibit 1. Precision-Recall Table](precision-recall_faster_rcnn.jpg)
 
 
 ![Exhibit 2. Performance in Training](training_performance.png)
