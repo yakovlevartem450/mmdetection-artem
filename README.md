@@ -14,9 +14,6 @@ Please don't judge harshly if something is not at the level of complexity you ex
  - Code for reconfiguring pre-existing models
  - Code for visualizing the performance evaluation 
 
-
-![](0002.jpg)
-
 ### **Solution**: breed identification using object detection
 
 ![](0003.jpg)
